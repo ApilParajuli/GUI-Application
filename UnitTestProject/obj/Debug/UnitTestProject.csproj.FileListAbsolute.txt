@@ -1,0 +1,17 @@
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\bin\Debug\Component_1.exe
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\bin\Debug\Component_1.pdb
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\bin\Debug\Component_1.exe.config
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Apil\source\repos\Component_1\UnitTestProject\obj\Debug\UnitTestProject.pdb

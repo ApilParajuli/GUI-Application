@@ -1,0 +1,14 @@
+C:\Users\Apil\source\repos\Component_1\Component_1\bin\Debug\Component_1.exe.config
+C:\Users\Apil\source\repos\Component_1\Component_1\bin\Debug\Component_1.exe
+C:\Users\Apil\source\repos\Component_1\Component_1\bin\Debug\Component_1.pdb
+C:\Users\Apil\source\repos\Component_1\Component_1\obj\Debug\Component_1.csproj.AssemblyReference.cache
+C:\Users\Apil\source\repos\Component_1\Component_1\obj\Debug\Component_1.Form1.resources
+C:\Users\Apil\source\repos\Component_1\Component_1\obj\Debug\Component_1.Properties.Resources.resources
+C:\Users\Apil\source\repos\Component_1\Component_1\obj\Debug\Component_1.csproj.GenerateResource.cache
+C:\Users\Apil\source\repos\Component_1\Component_1\obj\Debug\Component_1.csproj.CoreCompileInputs.cache
+C:\Users\Apil\source\repos\Component_1\Component_1\obj\Debug\Component_1.exe
+C:\Users\Apil\source\repos\Component_1\Component_1\obj\Debug\Component_1.pdb
+C:\Users\Apil\source\repos\Component_1\Component_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Apil\source\repos\Component_1\Component_1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Apil\source\repos\Component_1\Component_1\obj\Debug\Component_1.csproj.CopyComplete
+C:\Users\Apil\source\repos\Component_1\Component_1\obj\Debug\Component_1.csproj.SuggestedBindingRedirects.cache
